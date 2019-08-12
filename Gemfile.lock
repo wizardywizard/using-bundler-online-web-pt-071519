@@ -16,7 +16,7 @@ PLATFORMS
 
 DEPENDENCIES
   hashie
-  sinatra (~> 1.4, >= 1.4.4)
+  sinatra (~> 1.4)
 
 BUNDLED WITH
    2.0.1
