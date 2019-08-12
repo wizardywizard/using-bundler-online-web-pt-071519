@@ -22,8 +22,8 @@ end
 
 
 
+target = store.new('Target')
 
-store.new('Target')
 
 
 
