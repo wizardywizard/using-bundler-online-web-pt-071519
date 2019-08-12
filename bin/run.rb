@@ -12,7 +12,7 @@ class Store
   attr_reader :name
   attr_accessor :items
   
-  @@self = []
+  @@shelf = []
   
   def initialize(name)
     @name = name
