@@ -22,7 +22,7 @@ end
 
 
 
-target = store.new('Target')
+target = Store.new('Target')
 puts target.name
 
 
