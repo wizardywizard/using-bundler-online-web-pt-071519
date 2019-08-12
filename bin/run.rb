@@ -15,12 +15,6 @@ class Store
     @name = name
   end
   
-  
-  
-  
-  
-  
-  
 end
 
 
@@ -29,6 +23,7 @@ end
 
 
 
+store.new('Target')
 
 
 
