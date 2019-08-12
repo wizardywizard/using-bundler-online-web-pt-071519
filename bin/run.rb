@@ -25,7 +25,7 @@ end
 target = Store.new('Target')
 puts target.name
 target.name = 'new_name'
-
+puts target.name
 
 
 
