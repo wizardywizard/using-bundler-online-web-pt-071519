@@ -6,10 +6,11 @@
 
 
 
-
+#Store has many items
 class Store 
   
   attr_reader :name
+  attr_accessor :items
   
   @@self = []
   
