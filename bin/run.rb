@@ -19,10 +19,7 @@ end
 
 class Items
   
-  
-  
-  
-  
+  attr_accessor :catagory
   
 end
 
