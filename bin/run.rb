@@ -17,7 +17,14 @@ class Store
   
 end
 
-
+class Items
+  
+  
+  
+  
+  
+  
+end
 
 
 
