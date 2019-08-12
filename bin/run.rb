@@ -11,6 +11,8 @@ class Store
   
   attr_reader :name
   
+  @@self = []
+  
   def initialize(name)
     @name = name
   end
@@ -20,6 +22,8 @@ end
 class Items
   
   attr_accessor :catagory
+  
+  
   
 end
 
