@@ -7,7 +7,20 @@ AwesomePrint
 
 
 
-
+class Store 
+  
+  
+  def initialize(name)
+    
+  end
+  
+  
+  
+  
+  
+  
+  
+end
 
 
 
