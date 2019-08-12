@@ -23,6 +23,7 @@ end
 
 
 target = store.new('Target')
+puts target.name
 
 
 
