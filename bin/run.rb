@@ -1,40 +1,35 @@
 # Hashie
-# Sinatra
-# Octokit
-# Pry
-# AwesomePrint
+ Sinatra
+ Octokit
+ Pry
+ AwesomePrint
 
 
 
 #Store has many items
-class Store 
+# class Store 
   
-  attr_reader :name
-  attr_accessor :items
+#   attr_reader :name
+#   attr_accessor :items
   
-  @@shelf = []
+#   @@shelf = []
   
-  def initialize(name)
-    @name = name
-  end
+#   def initialize(name)
+#     @name = name
+#   end
   
-end
+# end
 
-class Items
+# class Items
   
-  attr_accessor :catagory
+#   attr_accessor :catagory
   
-  
-  
-end
+# end
 
-
-
-
-target = Store.new('Target')
-puts target.name
-#target.name = 'new_name'
-puts target
+# target = Store.new('Target')
+# puts target.name
+# #target.name = 'new_name'
+# puts target
 
 
 
